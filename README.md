@@ -69,20 +69,24 @@ Se incluyen todos los gráficos que aportan información real:
 
 ### Correlaciones
 - Matriz de correlación  
+![alt text](image-4.png)
 - Dispersión ACC_EVENTS vs WEATHER_EVENTS  
+![alt text](image-5.png)
 - Correlación por severidad  
-- Correlación por tipo de evento meteorológico  
+![alt text](image-6.png)
+
 
 ### Impacto porcentual
 - Incremento % por tipo de evento  
+![alt text](image.png)
 - Incremento % por severidad del accidente  
-
+![alt text](image-1.png)
 ### Series temporales
 - Accidentes vs eventos meteorológicos por mes   
-
+![alt text](image-2.png)
 ### Otros
 - Comparación de severidad de accidentes en días con y sin clima severo  
-  
+  ![alt text](image-3.png)
 
 ---
 
