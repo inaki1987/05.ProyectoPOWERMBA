@@ -82,10 +82,10 @@ Se incluyen todos los gráficos que aportan información real:
 - Incremento % por severidad del accidente  
 ![alt text](image-1.png)
 ### Series temporales
-- Accidentes vs eventos meteorológicos por mes   
+- Accidentes vs eventos meteorológicos por promedio diario por mes   
 ![alt text](image-2.png)
 ### Otros
-- Comparación de severidad de accidentes en días con y sin clima severo  
+- Comparación de promedio de tipología accidentes en días con y sin clima severo  
   ![alt text](image-3.png)
 
 ---
@@ -108,7 +108,7 @@ Se incluyen todos los gráficos que aportan información real:
 
 - La correlación diaria entre accidentes y clima es baja, pese a lo que la intución nos podría hacer pensar.  
 - Sin embargo, las tendencias mensuales muestran patrones similares.  
-- La niebla y el frío incrementan los accidentes más del 150%, siendo los eventos meteorológicos con mayor impacto relativo.  Sorprende el dato que los días con eventos de nieve, el numero de accidentes se reduce.
+- La niebla y el frío incrementan los accidentes más del 150%, siendo los eventos meteorológicos con mayor impacto relativo.  Sorprende el dato de que los días con eventos de nieve, el numero de accidentes se reduce.
 - La severidad del clima no determina la severidad del accidente,  aunque si produce un aumento porcentual significativo en todos los tipos de accidentes. Los eventos severos son raros, pero cuando ocurren incrementan el riesgo general.
 
 
@@ -118,7 +118,7 @@ Se incluyen todos los gráficos que aportan información real:
 
 - Analizar impacto por estado o región.  
 - Añadir datos de tráfico real.  
-- Crear un dashboard interactivo incluyendo el estad o región
+- Crear un dashboard interactivo incluyendo el estado o región
 
 ---
 
