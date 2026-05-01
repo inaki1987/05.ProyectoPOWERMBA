@@ -114,7 +114,7 @@ Se incluyen todos los gráficos que aportan información real:
 
 ---
 
-# Próximos pasos
+# 7.Próximos pasos
 
 - Analizar impacto por estado o región.  
 - Añadir datos de tráfico real.  
@@ -122,7 +122,18 @@ Se incluyen todos los gráficos que aportan información real:
 
 ---
 
+# 8.Creación de Dashboard
 
+El objetivo proncipal del dashboard es presentar los datos generales de accidentes y eventos meteorológicos por meses y estado, y el calculo de la correlación entre ambas variables mediante el metodo de Spearman, no incluido de manera estandar en el formulario de excel.
+
+- Se presentan datos generales de numero de accidentes y su clasificación por gravedad.
+- Se presentan datos generales de numero de eventos meteorológicos y su clasificación por gravedad.
+- Se presenta correlación de Spearman.
+- Como parte grafica, se muestran graficos de barras de las distribuciones de accidentes y eventos por mes.
+- Se presenta un gráfico de dispersión con una linea de tendendia que marca la correlación entre variables.
+- Se introduce un gráfico de anillo de la distribución de los tipos de eventos meteorológicos.
+- A toda la infromación anterior se aplica la segmentación por meses y estados.
+- Por ultimo se añade un mapa de la localización de los estados por los que se filtra el informe.
 
 
 
